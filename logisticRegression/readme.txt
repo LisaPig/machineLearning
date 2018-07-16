@@ -1,0 +1,4 @@
+logisticRegression.py 内存放logistic回归的基本方法，以及梯度上升及其优化方法
+visual_iteration_process.py 可视化迭代次数与回归系数的关系
+horse_colic.py 利用自己编写的LR方法实现 疝气马能否痊愈预测
+sklearn_horse_colic.py 利用sklearn的LR方法实现 疝气马预测
